@@ -2124,11 +2124,11 @@ input, select, textarea {
 		}
 
 			.image.avatar:before {
-				display: none;
+				display: inline;
 			}
 
 			.image.avatar img {
-				border-radius: 150%;
+				border-radius: 120%;
 				width: 100%;
 			}
 
