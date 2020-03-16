@@ -2120,7 +2120,7 @@ input, select, textarea {
 			}
 
 		.image.avatar {
-			border-radius: 150%;
+			border-radius: 120;
 		}
 
 			.image.avatar:before {
