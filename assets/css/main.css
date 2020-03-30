@@ -2678,6 +2678,7 @@ input, select, textarea {
 		max-width: 54em;
 		padding: 8em 4em 4em 4em;
 		width: calc(100% - 35%);
+		background-color: ghostwhite;
 	}
 
 		#main > section {
