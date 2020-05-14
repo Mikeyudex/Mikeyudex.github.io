@@ -37,7 +37,13 @@ ol, ul {
 	list-style: none;
 }
 
-blockquote, q {
+#header {
+	background: rgba(76,76,76,1);
+	
+}
+	
+	
+	blockquote, q {
 	quotes: none;
 }
 
