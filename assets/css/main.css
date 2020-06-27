@@ -33,6 +33,13 @@ ol, ul {
 }
 
 
+# particles-js {
+	
+	height: 100vh;
+	width: 100%;
+	box-sizing:border-box;
+	z-index: -1;
+}
 
 
 #header {
