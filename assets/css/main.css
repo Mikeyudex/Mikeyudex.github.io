@@ -302,6 +302,17 @@ input, select, textarea {
 
 		}
 
+/* iframe del mapa */
+	@media screen and (max-width: 480px) {
+
+			iframe {
+				max-width: 450px;
+			}
+
+		}
+
+
+
 /* Row */
 
 	.row {
