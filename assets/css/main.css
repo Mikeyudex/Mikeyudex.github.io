@@ -303,10 +303,11 @@ input, select, textarea {
 		}
 
 /* iframe del mapa */
-	@media screen and (max-width: 480px) {
+	@media screen and (max-width: 375px) {
 
 			iframe {
-				max-width: 450px;
+				max-width: 300px;
+				 
 			}
 
 		}
